@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="sbwrender"
+version="1.0.0"
+displayName="SBW Entity Render Distance"
+authors="YourName"
+description="Increases entity tracking range for players and vehicles on the server."
